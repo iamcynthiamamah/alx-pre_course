@@ -1,1 +1,1 @@
-bash/school doesnt contain: ["The school is open!"]
+echo "The school is open!"
